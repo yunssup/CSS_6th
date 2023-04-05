@@ -1,0 +1,27 @@
+/* Global -------------------------------------------------*/
+
+@font-face {
+  font-family: "AppleSDGothicNeoB";
+  src: url("../static/fonts/AppleSDGothicNeoB.ttf");
+}
+
+* {
+  box-sizing: border-box;
+  font-size: 1.2rem;
+  font-family: "AppleSDGothicNeoB";
+}
+
+/* html -------------------------------------------------- */
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+}
+
+/* 아래에 container css style을 지정해주세요. */
+
+/* 아래에 item css style을 지정해주세요. */
